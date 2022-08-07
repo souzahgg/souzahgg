@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there! My name is Henrique Guimaraes 👋
 
-<!--
-**souzahgg/souzahgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:cloud: I'm a Salesforce Administrator and Developer from Brazil.
 
-Here are some ideas to get you started:
+:house_with_garden: I'm currently living in Auckland, New Zealand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: Currently studying to become a Certified Salesforce Administrator and Developer.
+
+Due to my autodidacticism, adaptability, and consistent work I have been able to excel in a diverse range of experiences in my career, from science as a biologist to Customer Services Manager in a bank and now a Salesforce Developer.
+
+As a Trailhead Ranger with 5 Superbadges in my belt and 12+ years of experience in CRM & Financial Services, I'm Currently looking for opportunities where I can use my  expertise and Salesforce knowledge.
+
+In addition to Apex and SOQL, Besides Apex, I've been deepening my knowledge in Web Dev, especially JavaScript, HTML, CSS, DOM, jQuery, Bootstrap.
+
+You can find me on:
+
+https://www.linkedin.com/in/souzahgg/
+
+https://trailblazer.me/id/souzahgg
+
+⚡ Fun fact: I love spiders! :spider:
