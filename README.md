@@ -10,7 +10,7 @@ Due to my autodidacticism, adaptability, and consistent work I have been able to
 
 As a Trailhead Ranger with 5 Superbadges in my belt and 12+ years of experience in CRM & Financial Services, I'm Currently looking for opportunities where I can use my  expertise and Salesforce knowledge.
 
-In addition to Apex and SOQL, Besides Apex, I've been deepening my knowledge in Web Dev, especially JavaScript, HTML, CSS, DOM, jQuery, Bootstrap.
+In addition to Apex and SOQL, I've been deepening my knowledge in Web Dev, especially JavaScript, HTML, CSS, DOM, jQuery, Bootstrap.
 
 You can find me on:
 
